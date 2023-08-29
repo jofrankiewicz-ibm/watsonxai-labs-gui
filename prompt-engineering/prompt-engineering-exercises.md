@@ -18,7 +18,7 @@ Wykonaj poniższe ćwiczenia wykorzystując Prompt Lab z watsonx.ai.
 </tr>
 <tr>
 <td><a href="#4-text-extraction">4. Ekstrakcja tekstu</a></td>
-<td>Wyodrębnij czasowniki ze zdania</td>
+<td>Wyodrębnij imiona ze zdania</td>
 </tr>
 </table>
 
@@ -164,16 +164,22 @@ Wyodrębnij imiona z jednego z tych zdań
 
 **Sentences**
 ```
-Gdy tylko Karolina oraz Ania spotkały się w parku, rzuciły się sobie w ramiona i zaczęły wspominać dawne lata szkolne.
+Gdy tylko Karolina oraz Ania spotkały się w parku, rzuciły się sobie 
+w ramiona i zaczęły wspominać dawne lata szkolne.
 ```
 ```
-Marcin i Michał, podczas pracy nad wspólnym projektem, szybko odkryli, że mają ze sobą wiele wspólnego, a łączy ich między innymi wspólna miłość do zwierząt i zafascynowanie wspinaniem.
+Marcin i Michał, podczas pracy nad wspólnym projektem, szybko odkryli, 
+że mają ze sobą wiele wspólnego, a łączy ich między innymi 
+wspólna miłość do zwierząt i zafascynowanie wspinaniem.
 ```
 ```
-Kiedy wyjrzałam przez okno, zobaczyłam, że moja dawna znajoma Diana, wróciła w rodzinne strony po wielu latach nieobecności.
+Kiedy wyjrzałam przez okno, zobaczyłam, że moja dawna znajoma 
+Diana, wróciła w rodzinne strony po wielu latach nieobecności.
 ```
 ```
-Za każdym razem kiedy idę odebrać paczkę w pidżamie, liczę na to, że nikogo nie spotkam. Niestety, tym razem na mojej drodze stanął Marek, mój największy wróg.
+Za każdym razem kiedy idę odebrać paczkę w pidżamie, 
+liczę na to, że nikogo nie spotkam. Niestety, tym razem 
+na mojej drodze stanął Marek, mój największy wróg.
 ```
 
 Zobacz: [Przykładowa odpowiedź](prompt-engineering-exercise-answers.md#4-text-extraction)
